@@ -1,0 +1,21 @@
+git and github
+...............
+
+vcm-version control system
+
+
+git operations
+
+
+-push -local repo to remote remote repo -project and new updations
+-clone -remote repo to local repo -exact copy of project
+-pull -remote repo tp local repo -new changes
+
+push
+.....
+1.git add -local storage to staging area
+2.git commit -staging area to local repository
+
+to initialise git git init command is used
+git status-to check whether any files are added or any files are there to be add
+git add.-comand to git add
